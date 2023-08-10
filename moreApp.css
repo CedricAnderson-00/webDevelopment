@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    background-color: pink;
+    width: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    display: inline;
+}
+
+.two {
+    background-color: #b5838d;
+    border-color: #ffcdb2;
+    border-width: 3px;
+    border-style: dashed;
+    border-left-width: 8px;
+    padding-right: 50px;
+}
+
+button {
+    padding: 10px 10px;
+}
